@@ -9,5 +9,5 @@ To run without having to press a number and/or "Enter", I made the pwdgen.bat fi
 Example commands : \
 pwdgen 0\
 pwdgen 3\
-pwdgen num\
+pwdgen num
 
